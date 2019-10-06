@@ -1,0 +1,6 @@
+C:\xampp\htdocs\PP\2_P\2_project\2_project\bin\Debug\2_project.exe.config
+C:\xampp\htdocs\PP\2_P\2_project\2_project\bin\Debug\2_project.exe
+C:\xampp\htdocs\PP\2_P\2_project\2_project\bin\Debug\2_project.pdb
+C:\xampp\htdocs\PP\2_P\2_project\2_project\obj\Debug\2_project.csprojAssemblyReference.cache
+C:\xampp\htdocs\PP\2_P\2_project\2_project\obj\Debug\2_project.exe
+C:\xampp\htdocs\PP\2_P\2_project\2_project\obj\Debug\2_project.pdb
